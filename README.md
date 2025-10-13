@@ -22,7 +22,7 @@
 <a href="https://dev.to/yassef.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yassef.dev" height="30" width="40" /></a>
 <a href="https://fb.com/yassef wb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassef wb" height="30" width="40" /></a>
 <a href="https://instagram.com/lucid_dreams.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucid_dreams.io" height="30" width="40" /></a>
-<a href="https://www.youtube.com/vortex_beater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vortex_beater" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vortexbeater4045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vortex_beater" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
