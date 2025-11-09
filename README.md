@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassef</h1>
-<h3 align="center">A passionate FullStack developer from Philippines</h3>
+<h3 align="center">A passionate Fullstack developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahabyas&label=Profile%20views&color=0e75b6&style=flat" alt="wahabyas" /> </p>
 
