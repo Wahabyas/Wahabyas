@@ -32,8 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahabyas&show_icons=true&locale=en" alt="wahabyas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahabyas&" alt="wahabyas" /></p>
-
 
 
 
