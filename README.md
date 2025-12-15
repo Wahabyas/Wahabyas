@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **Wahabyassef@gmail.com**
 
-- ⚡ Fun fact **TypeScript Fanatic**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
