@@ -30,6 +30,8 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahabyas&show_icons=true&locale=en&layout=compact" alt="wahabyas" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahabyas&show_icons=true&locale=en" alt="wahabyas" /></p>
 
 
